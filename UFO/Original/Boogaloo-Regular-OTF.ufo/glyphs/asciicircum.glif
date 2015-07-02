@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciicircum" format="1">
+  <advance width="1000"/>
+  <unicode hex="005E"/>
+  <outline>
+    <contour>
+      <point x="452" y="742" type="line" name="hr00"/>
+      <point x="345" y="637"/>
+      <point x="250" y="526"/>
+      <point x="186" y="391" type="curve"/>
+      <point x="307" y="355" type="line"/>
+      <point x="362" y="457"/>
+      <point x="428" y="537"/>
+      <point x="500" y="614" type="curve"/>
+      <point x="563" y="512"/>
+      <point x="626" y="435"/>
+      <point x="692" y="360" type="curve"/>
+      <point x="827" y="395" type="line"/>
+      <point x="745" y="479"/>
+      <point x="647" y="595"/>
+      <point x="561" y="731" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjM3NiIgd2lkdGg9Ii0yMSIgLz4KICAgICAg
+PGhzdGVtIHBvcz0iNzQyIiB3aWR0aD0iLTIwIiAv
+PgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExp
+c3Q+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

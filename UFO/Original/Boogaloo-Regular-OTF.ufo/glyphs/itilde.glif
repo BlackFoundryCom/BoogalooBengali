@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="itilde" format="1">
+  <advance width="236"/>
+  <unicode hex="0129"/>
+  <outline>
+    <contour>
+      <point x="69" y="477" type="line"/>
+      <point x="69" y="-3" type="line"/>
+      <point x="183" y="-14" type="line"/>
+      <point x="183" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="651" type="line"/>
+      <point x="196" y="635"/>
+      <point x="179" y="619"/>
+      <point x="156" y="619" type="curve" smooth="yes"/>
+      <point x="125" y="619"/>
+      <point x="100" y="647"/>
+      <point x="61" y="647" type="curve" smooth="yes" name="hr01"/>
+      <point x="15" y="647"/>
+      <point x="-14" y="600"/>
+      <point x="-32" y="562" type="curve"/>
+      <point x="28" y="530" type="line"/>
+      <point x="40" y="542"/>
+      <point x="56" y="553"/>
+      <point x="78" y="553" type="curve" smooth="yes"/>
+      <point x="109" y="553"/>
+      <point x="127" y="535"/>
+      <point x="173" y="535" type="curve" smooth="yes" name="hr02"/>
+      <point x="220" y="535"/>
+      <point x="264" y="594"/>
+      <point x="268" y="646" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjciIHdpZHRoPSItMjEiIC8+CiAgICAgIDxo
+c3RlbSBwb3M9IjU1MyIgd2lkdGg9Ijk0IiAvPgog
+ICAgICA8dnN0ZW0gcG9zPSI2OSIgd2lkdGg9IjEx
+NCIgLz4KICAgIDwvaGludHNldD4KICAgIDxoaW50
+c2V0IHBvaW50VGFnPSJocjAyIj4KICAgICAgPGhz
+dGVtIHBvcz0iNyIgd2lkdGg9Ii0yMSIgLz4KICAg
+ICAgPGhzdGVtIHBvcz0iNTM1IiB3aWR0aD0iODQi
+IC8+CiAgICAgIDxoc3RlbSBwb3M9IjY1MSIgd2lk
+dGg9Ii0yMCIgLz4KICAgICAgPHZzdGVtIHBvcz0i
+NjkiIHdpZHRoPSIxMTQiIC8+CiAgICA8L2hpbnRz
+ZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

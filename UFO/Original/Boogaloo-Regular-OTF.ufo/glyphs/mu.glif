@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mu" format="1">
+  <advance width="420"/>
+  <unicode hex="00B5"/>
+  <unicode hex="03BC"/>
+  <outline>
+    <contour>
+      <point x="135" y="-244" type="line"/>
+      <point x="137" y="-163"/>
+      <point x="138" y="-89"/>
+      <point x="145" y="-1" type="curve"/>
+      <point x="151" y="-2"/>
+      <point x="158" y="-3"/>
+      <point x="165" y="-3" type="curve" smooth="yes"/>
+      <point x="201" y="-3"/>
+      <point x="238" y="28"/>
+      <point x="272" y="78" type="curve"/>
+      <point x="279" y="47"/>
+      <point x="283" y="18"/>
+      <point x="285" y="-7" type="curve"/>
+      <point x="384" y="-17" type="line"/>
+      <point x="378" y="62"/>
+      <point x="376" y="190"/>
+      <point x="376" y="311" type="curve" smooth="yes"/>
+      <point x="376" y="368"/>
+      <point x="378" y="418"/>
+      <point x="378" y="469" type="curve"/>
+      <point x="262" y="479" type="line"/>
+      <point x="261" y="428"/>
+      <point x="259" y="368"/>
+      <point x="259" y="311" type="curve" smooth="yes"/>
+      <point x="259" y="289"/>
+      <point x="259" y="266"/>
+      <point x="260" y="244" type="curve"/>
+      <point x="242" y="164"/>
+      <point x="209" y="104"/>
+      <point x="189" y="104" type="curve" smooth="yes"/>
+      <point x="167" y="104"/>
+      <point x="157" y="124"/>
+      <point x="157" y="155" type="curve" smooth="yes" name="hr01"/>
+      <point x="157" y="267"/>
+      <point x="165" y="344"/>
+      <point x="175" y="439" type="curve"/>
+      <point x="59" y="450" type="line"/>
+      <point x="48" y="346"/>
+      <point x="40" y="259"/>
+      <point x="40" y="140" type="curve" smooth="yes"/>
+      <point x="40" y="112"/>
+      <point x="44" y="88"/>
+      <point x="53" y="68" type="curve"/>
+      <point x="39" y="-42"/>
+      <point x="31" y="-125"/>
+      <point x="27" y="-235" type="curve" name="hr02"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii0yMjMiIHdpZHRoPSItMjEiIC8+CiAgICAg
+IDxoc3RlbSBwb3M9Ii0zIiB3aWR0aD0iMTA3IiAv
+PgogICAgICA8aHN0ZW0gcG9zPSI0NzkiIHdpZHRo
+PSItMjAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjQw
+IiB3aWR0aD0iMTE3IiAvPgogICAgICA8dnN0ZW0g
+cG9zPSIyNTkiIHdpZHRoPSIxMTciIC8+CiAgICA8
+L2hpbnRzZXQ+CiAgICA8aGludHNldCBwb2ludFRh
+Zz0iaHIwMiI+CiAgICAgIDxoc3RlbSBwb3M9Ii0y
+MjMiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3Rl
+bSBwb3M9Ii0zIiB3aWR0aD0iMTA3IiAvPgogICAg
+ICA8aHN0ZW0gcG9zPSI0NzkiIHdpZHRoPSItMjAi
+IC8+CiAgICAgIDx2c3RlbSBwb3M9IjI3IiB3aWR0
+aD0iMTE4IiAvPgogICAgICA8dnN0ZW0gcG9zPSIy
+NTkiIHdpZHRoPSIxMTciIC8+CiAgICA8L2hpbnRz
+ZXQ+CiAgPC9oaW50U2V0TGlzdD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

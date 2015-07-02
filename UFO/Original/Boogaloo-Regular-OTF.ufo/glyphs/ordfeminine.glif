@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordfeminine" format="1">
+  <advance width="293"/>
+  <unicode hex="00AA"/>
+  <outline>
+    <contour>
+      <point x="112" y="574" type="line"/>
+      <point x="116" y="597"/>
+      <point x="127" y="625"/>
+      <point x="142" y="625" type="curve" smooth="yes"/>
+      <point x="162" y="625"/>
+      <point x="164" y="599"/>
+      <point x="164" y="579" type="curve" smooth="yes"/>
+      <point x="164" y="561" type="line"/>
+      <point x="91" y="559"/>
+      <point x="18" y="516"/>
+      <point x="18" y="450" type="curve" smooth="yes" name="hr01"/>
+      <point x="18" y="400"/>
+      <point x="54" y="366"/>
+      <point x="113" y="366" type="curve" smooth="yes"/>
+      <point x="133" y="366"/>
+      <point x="153" y="374"/>
+      <point x="170" y="385" type="curve"/>
+      <point x="176" y="362" type="line"/>
+      <point x="250" y="358" type="line" name="hr02"/>
+      <point x="254" y="433"/>
+      <point x="258" y="506"/>
+      <point x="258" y="570" type="curve" smooth="yes"/>
+      <point x="258" y="643"/>
+      <point x="233" y="712"/>
+      <point x="150" y="712" type="curve" smooth="yes"/>
+      <point x="83" y="712"/>
+      <point x="41" y="646"/>
+      <point x="27" y="580" type="curve"/>
+    </contour>
+    <contour>
+      <point x="160" y="446" type="line"/>
+      <point x="147" y="440"/>
+      <point x="136" y="438"/>
+      <point x="127" y="438" type="curve" smooth="yes"/>
+      <point x="116" y="438"/>
+      <point x="110" y="444"/>
+      <point x="110" y="455" type="curve" smooth="yes"/>
+      <point x="110" y="466"/>
+      <point x="125" y="482"/>
+      <point x="162" y="485" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjM2NiIgd2lkdGg9IjE5NSIgLz4KICAgICAg
+PGhzdGVtIHBvcz0iNTc3IiB3aWR0aD0iMTM1IiAv
+PgogICAgICA8dnN0ZW0gcG9zPSIxOCIgd2lkdGg9
+IjI0MCIgLz4KICAgIDwvaGludHNldD4KICAgIDxo
+aW50c2V0IHBvaW50VGFnPSJocjAyIj4KICAgICAg
+PGhzdGVtIHBvcz0iMzc5IiB3aWR0aD0iLTIxIiAv
+PgogICAgICA8aHN0ZW0gcG9zPSI1NzciIHdpZHRo
+PSIxMzUiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjE4
+IiB3aWR0aD0iMjQwIiAvPgogICAgPC9oaW50c2V0
+PgogIDwvaGludFNldExpc3Q+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

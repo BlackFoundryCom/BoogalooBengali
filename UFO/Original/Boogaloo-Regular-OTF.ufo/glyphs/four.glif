@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four" format="1">
+  <advance width="484"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="398" y="-30" type="line" name="hr00"/>
+      <point x="394" y="32"/>
+      <point x="393" y="101"/>
+      <point x="393" y="162" type="curve"/>
+      <point x="445" y="162" type="line"/>
+      <point x="459" y="267" type="line"/>
+      <point x="395" y="273" type="line"/>
+      <point x="401" y="448"/>
+      <point x="425" y="636"/>
+      <point x="425" y="636" type="curve"/>
+      <point x="260" y="652" type="line"/>
+      <point x="182" y="566"/>
+      <point x="17" y="260"/>
+      <point x="17" y="232" type="curve"/>
+      <point x="136" y="151" type="line"/>
+      <point x="187" y="157"/>
+      <point x="232" y="163"/>
+      <point x="273" y="163" type="curve"/>
+      <point x="273" y="105"/>
+      <point x="274" y="37"/>
+      <point x="278" y="-20" type="curve"/>
+    </contour>
+    <contour>
+      <point x="166" y="267" type="curve"/>
+      <point x="189" y="319"/>
+      <point x="245" y="429"/>
+      <point x="298" y="521" type="curve"/>
+      <point x="288" y="454"/>
+      <point x="279" y="370"/>
+      <point x="274" y="274" type="curve"/>
+      <point x="238" y="274"/>
+      <point x="202" y="272"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii05IiB3aWR0aD0iLTIxIiAvPgogICAgICA8
+aHN0ZW0gcG9zPSI2NTIiIHdpZHRoPSItMjAiIC8+
+CiAgICAgIDx2c3RlbSBwb3M9IjI3MyIgd2lkdGg9
+IjEyMiIgLz4KICAgIDwvaGludHNldD4KICA8L2hp
+bnRTZXRMaXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>
