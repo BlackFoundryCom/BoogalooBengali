@@ -31,12 +31,12 @@
       <point x="406.554174992" y="295.30424635"/>
       <point x="440.0" y="358.0"/>
       <point x="457" y="358" type="curve" smooth="yes" name="hr01"/>
-      <point x="483.0" y="358.0"/>
-      <point x="499" y="314"/>
-      <point x="499" y="276" type="curve" smooth="yes"/>
-      <point x="499" y="189"/>
-      <point x="491" y="99"/>
-      <point x="480" y="-5" type="curve"/>
+      <point x="491.125" y="358.0"/>
+      <point x="509" y="314"/>
+      <point x="509" y="276" type="curve" smooth="yes"/>
+      <point x="509" y="189"/>
+      <point x="501" y="99"/>
+      <point x="490" y="-5" type="curve"/>
       <point x="556" y="-15" type="line"/>
       <point x="568.551943309" y="90.2432169714"/>
       <point x="576.0" y="179.937062937"/>
