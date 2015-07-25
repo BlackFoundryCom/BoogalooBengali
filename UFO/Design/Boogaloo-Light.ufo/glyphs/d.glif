@@ -35,12 +35,12 @@
       <point x="340" y="724" type="curve"/>
     </contour>
     <contour>
-      <point x="287" y="254" type="line"/>
-      <point x="261" y="158"/>
-      <point x="202" y="100"/>
-      <point x="177" y="100" type="curve" smooth="yes"/>
-      <point x="126" y="100"/>
-      <point x="113.0" y="142.0"/>
+      <point x="287" y="244" type="line"/>
+      <point x="261" y="148"/>
+      <point x="202" y="90"/>
+      <point x="177" y="90" type="curve" smooth="yes"/>
+      <point x="126" y="90"/>
+      <point x="113.0" y="136.266666667"/>
       <point x="113" y="185" type="curve" smooth="yes"/>
       <point x="113.0" y="271.041237113"/>
       <point x="150.0" y="399.0"/>
