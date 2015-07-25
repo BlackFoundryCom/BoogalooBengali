@@ -31,12 +31,12 @@
       <point x="359.0" y="343.65"/>
       <point x="344" y="456"/>
       <point x="257" y="456" type="curve" smooth="yes"/>
-      <point x="209" y="456"/>
-      <point x="159" y="399"/>
-      <point x="128" y="322" type="curve"/>
-      <point x="127" y="347"/>
-      <point x="125.260971679" y="374.953764668"/>
-      <point x="124" y="409" type="curve"/>
+      <point x="209.0" y="456.0"/>
+      <point x="149" y="399"/>
+      <point x="118" y="322" type="curve"/>
+      <point x="117" y="347"/>
+      <point x="115" y="375"/>
+      <point x="114" y="409" type="curve"/>
     </contour>
   </outline>
   <lib>
