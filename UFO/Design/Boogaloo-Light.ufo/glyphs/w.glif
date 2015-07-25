@@ -27,12 +27,12 @@
       <point x="83" y="177"/>
       <point x="120" y="-4" type="curve"/>
       <point x="164" y="-15" type="line"/>
-      <point x="191.417900394" y="69.2846567656"/>
-      <point x="232" y="135"/>
-      <point x="250" y="200" type="curve"/>
-      <point x="263" y="135"/>
-      <point x="307" y="72"/>
-      <point x="325" y="-4" type="curve"/>
+      <point x="191.887013441" y="70.7267450213"/>
+      <point x="242" y="134"/>
+      <point x="260" y="200" type="curve"/>
+      <point x="273" y="135"/>
+      <point x="317" y="72"/>
+      <point x="335" y="-4" type="curve"/>
     </contour>
   </outline>
   <lib>
