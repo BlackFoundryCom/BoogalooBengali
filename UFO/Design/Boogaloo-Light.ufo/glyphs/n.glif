@@ -40,18 +40,15 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
-b3M9IjMiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxo
-c3RlbSBwb3M9IjM2OCIgd2lkdGg9IjEwOCIgLz4K
-ICAgICAgPHZzdGVtIHBvcz0iNDUiIHdpZHRoPSIx
-MjAiIC8+CiAgICAgIDx2c3RlbSBwb3M9IjI3MCIg
-d2lkdGg9IjExOSIgLz4KICAgIDwvaGludHNldD4K
-ICA8L2hpbnRTZXRMaXN0Pgo=
-  </data>
-  </dict>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <data>
+      ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBwb2ludFRhZz0iaHIwMCI+CiAgICAg
+      IDxoc3RlbSBwb3M9IjMiIHdpZHRoPSItMjEiIC8+CiAgICAgIDxoc3RlbSBwb3M9IjM2
+      OCIgd2lkdGg9IjEwOCIgLz4KICAgICAgPHZzdGVtIHBvcz0iNDUiIHdpZHRoPSIxMjAi
+      IC8+CiAgICAgIDx2c3RlbSBwb3M9IjI3MCIgd2lkdGg9IjExOSIgLz4KICAgIDwvaGlu
+      dHNldD4KICA8L2hpbnRTZXRMaXN0Pgo=
+      </data>
+    </dict>
   </lib>
 </glyph>
