@@ -30,9 +30,9 @@
       <point x="209.074766355" y="-3.0"/>
       <point x="251" y="34"/>
       <point x="296" y="120" type="curve"/>
-      <point x="302" y="64"/>
-      <point x="310" y="30"/>
-      <point x="313" y="-7" type="curve"/>
+      <point x="302.261381538" y="61.5604389799"/>
+      <point x="304" y="26"/>
+      <point x="307" y="-13" type="curve"/>
       <point x="354" y="-17" type="line" name="hr01"/>
       <point x="348" y="62"/>
       <point x="346" y="190"/>
