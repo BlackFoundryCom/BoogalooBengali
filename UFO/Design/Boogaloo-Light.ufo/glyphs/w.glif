@@ -30,7 +30,7 @@
       <point x="216.373315766" y="112.001464581"/>
       <point x="241" y="212"/>
       <point x="262" y="310" type="curve"/>
-      <point x="282.084800862" y="210.580235735"/>
+      <point x="275" y="204"/>
       <point x="291" y="107"/>
       <point x="318" y="-8" type="curve"/>
     </contour>
