@@ -25,11 +25,11 @@
       <point x="309" y="105"/>
       <point x="304" y="21" type="curve"/>
       <point x="361" y="10" type="line"/>
-      <point x="366" y="86"/>
-      <point x="368" y="159"/>
-      <point x="369" y="223" type="curve"/>
-      <point x="379" y="317"/>
-      <point x="431" y="398"/>
+      <point x="366.514310079" y="93.8175131951"/>
+      <point x="368" y="174"/>
+      <point x="369" y="245" type="curve"/>
+      <point x="378" y="327"/>
+      <point x="431.0" y="398.0"/>
       <point x="457" y="398" type="curve" smooth="yes" name="hr01"/>
       <point x="507" y="398"/>
       <point x="519" y="333"/>
