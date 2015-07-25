@@ -8,8 +8,8 @@
       <point x="280" y="445"/>
       <point x="254" y="458"/>
       <point x="229" y="458" type="curve" smooth="yes"/>
-      <point x="188.375" y="458.0"/>
-      <point x="151" y="406"/>
+      <point x="187.96875" y="458.0"/>
+      <point x="151.108022842" y="406.347551751"/>
       <point x="128" y="332" type="curve"/>
       <point x="125" y="355"/>
       <point x="120" y="376"/>
@@ -28,8 +28,8 @@
       <point x="143" y="175"/>
       <point x="142" y="211"/>
       <point x="141" y="247" type="curve"/>
-      <point x="166" y="336"/>
-      <point x="190.164705882" y="395.0"/>
+      <point x="166.110468609" y="336.393268246"/>
+      <point x="189.705882353" y="395.0"/>
       <point x="231" y="395" type="curve" smooth="yes"/>
       <point x="253" y="395"/>
       <point x="265" y="386"/>
@@ -341,6 +341,13 @@
           <integer>301</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.4</real>
+        <real>0.4</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
