@@ -18,18 +18,18 @@
       <point x="150.12002651" y="304.368652851"/>
       <point x="201.333333333" y="398.0"/>
       <point x="241" y="398" type="curve" smooth="yes"/>
-      <point x="294.796610169" y="398.0"/>
-      <point x="309" y="307"/>
-      <point x="309" y="223" type="curve" smooth="yes"/>
-      <point x="309" y="163"/>
-      <point x="306" y="100"/>
-      <point x="298" y="21" type="curve"/>
-      <point x="355" y="10" type="line"/>
-      <point x="364" y="96"/>
-      <point x="368" y="177"/>
-      <point x="368" y="246" type="curve" smooth="yes"/>
-      <point x="368" y="344"/>
-      <point x="352.529411765" y="456.0"/>
+      <point x="294.016949153" y="398.0"/>
+      <point x="308" y="307"/>
+      <point x="308" y="223" type="curve" smooth="yes"/>
+      <point x="308" y="163"/>
+      <point x="305" y="100"/>
+      <point x="297" y="21" type="curve"/>
+      <point x="354" y="10" type="line"/>
+      <point x="363" y="96"/>
+      <point x="367" y="177"/>
+      <point x="367" y="246" type="curve" smooth="yes"/>
+      <point x="367" y="344"/>
+      <point x="351.676470588" y="456.0"/>
       <point x="257" y="456" type="curve" smooth="yes"/>
       <point x="204.534883721" y="456.0"/>
       <point x="150.194199559" y="391.456940139"/>
