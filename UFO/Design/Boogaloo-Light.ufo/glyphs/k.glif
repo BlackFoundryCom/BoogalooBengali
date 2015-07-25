@@ -6,11 +6,11 @@
     <contour>
       <point x="327" y="473" type="line"/>
       <point x="291" y="390"/>
-      <point x="217" y="285"/>
-      <point x="145" y="223" type="curve"/>
-      <point x="145" y="397"/>
-      <point x="151.484595892" y="566.581732903"/>
-      <point x="161" y="722" type="curve" name="hr01"/>
+      <point x="216" y="285"/>
+      <point x="144" y="223" type="curve"/>
+      <point x="144" y="397"/>
+      <point x="150" y="567"/>
+      <point x="160" y="722" type="curve" name="hr01"/>
       <point x="104" y="731" type="line"/>
       <point x="94" y="580"/>
       <point x="89" y="405"/>
@@ -18,11 +18,11 @@
       <point x="89" y="154"/>
       <point x="90" y="70"/>
       <point x="93" y="-8" type="curve"/>
-      <point x="150" y="-19" type="line"/>
-      <point x="146.846420081" y="47.2251783026"/>
-      <point x="146.0" y="116.189189189"/>
-      <point x="146" y="186" type="curve"/>
-      <point x="226" y="129"/>
+      <point x="149" y="-19" type="line"/>
+      <point x="146" y="47"/>
+      <point x="145" y="116"/>
+      <point x="145" y="186" type="curve"/>
+      <point x="225" y="129"/>
       <point x="295.632677473" y="54.5772211135"/>
       <point x="345" y="-23" type="curve"/>
       <point x="381" y="12" type="line"/>
