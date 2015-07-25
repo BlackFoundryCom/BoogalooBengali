@@ -31,11 +31,11 @@
       <point x="363" y="384"/>
       <point x="338" y="444"/>
       <point x="275" y="444" type="curve" smooth="yes"/>
-      <point x="229.0" y="444.0"/>
-      <point x="195" y="408"/>
-      <point x="149" y="348" type="curve"/>
-      <point x="149" y="475"/>
-      <point x="149.134008042" y="606.677193943"/>
+      <point x="228.634920635" y="444.0"/>
+      <point x="197" y="403"/>
+      <point x="148" y="340" type="curve"/>
+      <point x="148" y="470"/>
+      <point x="149.264967714" y="604.407226287"/>
       <point x="143" y="713" type="curve"/>
     </contour>
   </outline>
