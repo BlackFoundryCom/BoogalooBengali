@@ -30,7 +30,7 @@
       <point x="209.747663551" y="-3.0"/>
       <point x="253" y="34"/>
       <point x="298" y="120" type="curve"/>
-      <point x="308" y="74"/>
+      <point x="304" y="64"/>
       <point x="312.01398868" y="30.325141495"/>
       <point x="315" y="-7" type="curve"/>
       <point x="354" y="-17" type="line" name="hr01"/>
