@@ -40,11 +40,11 @@
       <point x="309" y="146"/>
       <point x="253.0" y="46.0"/>
       <point x="202" y="46" type="curve" smooth="yes"/>
-      <point x="178" y="46"/>
-      <point x="153" y="51"/>
-      <point x="142" y="67" type="curve"/>
-      <point x="142.0" y="132.986666667"/>
-      <point x="142" y="203"/>
+      <point x="178.0" y="46.0"/>
+      <point x="154" y="52"/>
+      <point x="142" y="70" type="curve"/>
+      <point x="142" y="135"/>
+      <point x="142.014848051" y="203.979971354"/>
     </contour>
   </outline>
   <lib>
