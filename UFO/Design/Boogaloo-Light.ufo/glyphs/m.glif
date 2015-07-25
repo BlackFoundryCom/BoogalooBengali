@@ -19,17 +19,17 @@
       <point x="227.923076923" y="324.0"/>
       <point x="257" y="324" type="curve" smooth="yes"/>
       <point x="277.0" y="324.0"/>
-      <point x="282.0" y="278.520547945"/>
-      <point x="282" y="241" type="curve" smooth="yes"/>
-      <point x="282.0" y="173.086956522"/>
-      <point x="278.783324088" y="105.186503952"/>
-      <point x="274" y="21" type="curve"/>
+      <point x="292" y="279"/>
+      <point x="292" y="241" type="curve" smooth="yes"/>
+      <point x="292" y="173"/>
+      <point x="289" y="105"/>
+      <point x="284" y="21" type="curve"/>
       <point x="361" y="10" type="line"/>
       <point x="366" y="86"/>
       <point x="368" y="159"/>
       <point x="369" y="223" type="curve"/>
-      <point x="377" y="295"/>
-      <point x="434.137931034" y="358.0"/>
+      <point x="377.0632631" y="295.569367904"/>
+      <point x="431.206896552" y="358.0"/>
       <point x="457" y="358" type="curve" smooth="yes" name="hr01"/>
       <point x="507.375" y="358.0"/>
       <point x="519.0" y="314.0"/>
