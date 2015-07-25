@@ -20,9 +20,9 @@
       <point x="93" y="-8" type="curve"/>
       <point x="150" y="-19" type="line"/>
       <point x="147.153488701" y="40.7767372827"/>
-      <point x="146.0" y="103.384615385"/>
-      <point x="146" y="166" type="curve"/>
-      <point x="216.140441196" y="92.937040421"/>
+      <point x="146" y="113"/>
+      <point x="146" y="176" type="curve"/>
+      <point x="216" y="103"/>
       <point x="294.123268744" y="48.3638041757"/>
       <point x="340" y="-23" type="curve"/>
       <point x="372" y="7" type="line"/>
