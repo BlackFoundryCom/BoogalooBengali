@@ -25,12 +25,12 @@
       <point x="216.140441196" y="92.937040421"/>
       <point x="294.123268744" y="48.3638041757"/>
       <point x="340" y="-23" type="curve"/>
-      <point x="416" y="49" type="line"/>
-      <point x="370.784098044" y="126.871831146"/>
-      <point x="307" y="182"/>
-      <point x="244" y="255" type="curve"/>
-      <point x="291" y="319"/>
-      <point x="334" y="384"/>
+      <point x="372" y="7" type="line"/>
+      <point x="327" y="85"/>
+      <point x="263" y="140"/>
+      <point x="200" y="213" type="curve"/>
+      <point x="260" y="294"/>
+      <point x="326.860548699" y="367.579262007"/>
       <point x="364" y="453" type="curve"/>
     </contour>
   </outline>
