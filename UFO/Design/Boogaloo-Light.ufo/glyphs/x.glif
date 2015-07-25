@@ -15,19 +15,19 @@
       <point x="298" y="114"/>
       <point x="268" y="169"/>
       <point x="241" y="232" type="curve"/>
-      <point x="294" y="301"/>
-      <point x="342" y="377"/>
-      <point x="364" y="445" type="curve"/>
-      <point x="278" y="487" type="line"/>
-      <point x="260" y="432"/>
-      <point x="227" y="377"/>
+      <point x="292.518029388" y="299.070642033"/>
+      <point x="343" y="370"/>
+      <point x="364" y="435" type="curve"/>
+      <point x="278" y="477" type="line"/>
+      <point x="261" y="425"/>
+      <point x="225.558267032" y="374.717256134"/>
       <point x="191" y="320" type="curve"/>
-      <point x="174" y="366"/>
-      <point x="159" y="408"/>
-      <point x="150" y="454" type="curve"/>
-      <point x="39" y="465" type="line"/>
-      <point x="53" y="386"/>
-      <point x="83" y="302"/>
+      <point x="175.034077292" y="363.201908505"/>
+      <point x="158" y="401"/>
+      <point x="150" y="444" type="curve"/>
+      <point x="39" y="455" type="line"/>
+      <point x="52" y="379"/>
+      <point x="84.2473311623" y="299.69243735"/>
       <point x="123" y="228" type="curve"/>
       <point x="79" y="154"/>
       <point x="43" y="87"/>
