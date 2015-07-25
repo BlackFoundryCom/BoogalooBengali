@@ -5,11 +5,11 @@
   <outline>
     <contour>
       <point x="332" y="477" type="line"/>
-      <point x="298.436552865" y="399.617607994"/>
-      <point x="218" y="328"/>
-      <point x="146" y="240" type="curve"/>
-      <point x="146" y="405"/>
-      <point x="152" y="575"/>
+      <point x="297.187915947" y="396.738806212"/>
+      <point x="220" y="320"/>
+      <point x="146" y="230" type="curve"/>
+      <point x="146" y="398"/>
+      <point x="151.81002675" y="571.897103577"/>
       <point x="161" y="722" type="curve" name="hr01"/>
       <point x="104" y="731" type="line"/>
       <point x="94" y="580"/>
@@ -19,18 +19,18 @@
       <point x="90" y="70"/>
       <point x="93" y="-8" type="curve"/>
       <point x="150" y="-19" type="line"/>
-      <point x="147" y="44"/>
-      <point x="146" y="100"/>
-      <point x="146" y="166" type="curve"/>
-      <point x="218" y="91"/>
-      <point x="292.445251473" y="50.9740532646"/>
+      <point x="147.153488701" y="40.7767372827"/>
+      <point x="146" y="93"/>
+      <point x="146" y="156" type="curve"/>
+      <point x="216" y="83"/>
+      <point x="294.123268744" y="48.3638041757"/>
       <point x="340" y="-23" type="curve"/>
       <point x="416" y="49" type="line"/>
-      <point x="380" y="111"/>
-      <point x="341" y="152"/>
-      <point x="292" y="209" type="curve"/>
-      <point x="337" y="271"/>
-      <point x="383.49404674" y="340.792624687"/>
+      <point x="381.571420556" y="108.293664598"/>
+      <point x="339" y="144"/>
+      <point x="292" y="199" type="curve"/>
+      <point x="339" y="263"/>
+      <point x="382.209807294" y="337.809875006"/>
       <point x="412" y="407" type="curve"/>
     </contour>
   </outline>
