@@ -26,13 +26,13 @@
       <point x="289" y="34"/>
       <point x="292" y="-6"/>
       <point x="292" y="-6" type="curve"/>
-      <point x="341" y="-14" type="line" name="hr01"/>
-      <point x="351" y="170"/>
-      <point x="357" y="338"/>
-      <point x="357" y="520" type="curve" smooth="yes" name="hr02"/>
-      <point x="357" y="586"/>
-      <point x="357" y="653"/>
-      <point x="355" y="724" type="curve"/>
+      <point x="331" y="-14" type="line" name="hr01"/>
+      <point x="341" y="170"/>
+      <point x="347" y="338"/>
+      <point x="347" y="520" type="curve" smooth="yes" name="hr02"/>
+      <point x="347" y="586"/>
+      <point x="347" y="653"/>
+      <point x="345" y="724" type="curve"/>
     </contour>
     <contour>
       <point x="282" y="264" type="line"/>
