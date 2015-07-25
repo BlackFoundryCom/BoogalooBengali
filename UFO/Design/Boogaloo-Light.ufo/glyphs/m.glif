@@ -29,8 +29,8 @@
       <point x="368" y="174"/>
       <point x="369" y="245" type="curve"/>
       <point x="390" y="328"/>
-      <point x="431.0" y="398.0"/>
-      <point x="457" y="398" type="curve" smooth="yes" name="hr01"/>
+      <point x="431" y="398"/>
+      <point x="466" y="398" type="curve" smooth="yes" name="hr01"/>
       <point x="507" y="398"/>
       <point x="519" y="333"/>
       <point x="519" y="276" type="curve" smooth="yes"/>
