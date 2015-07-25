@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="500"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="232" y="-6" type="line"/>
+      <point x="215" y="-45"/>
+      <point x="207" y="-80"/>
+      <point x="206" y="-129" type="curve"/>
+      <point x="234" y="-132" type="line"/>
+      <point x="244" y="-127"/>
+      <point x="253" y="-125"/>
+      <point x="262" y="-125" type="curve" smooth="yes"/>
+      <point x="282" y="-125"/>
+      <point x="297" y="-137"/>
+      <point x="297" y="-153" type="curve" smooth="yes" name="hr01"/>
+      <point x="297" y="-172"/>
+      <point x="276" y="-181"/>
+      <point x="255" y="-181" type="curve" smooth="yes"/>
+      <point x="220" y="-181"/>
+      <point x="170" y="-160"/>
+      <point x="140" y="-144" type="curve"/>
+      <point x="122" y="-189" type="line"/>
+      <point x="159" y="-217"/>
+      <point x="208" y="-232"/>
+      <point x="257" y="-232" type="curve" smooth="yes"/>
+      <point x="336" y="-232"/>
+      <point x="383" y="-201"/>
+      <point x="383" y="-139" type="curve" smooth="yes"/>
+      <point x="383" y="-90"/>
+      <point x="340" y="-62"/>
+      <point x="298" y="-62" type="curve" smooth="yes"/>
+      <point x="290" y="-62"/>
+      <point x="283" y="-63"/>
+      <point x="275" y="-65" type="curve"/>
+      <point x="267" y="-41"/>
+      <point x="267" y="-27"/>
+      <point x="267" y="-6" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii0yMzIiIHdpZHRoPSI1MSIgLz4KICAgICAg
+PGhzdGVtIHBvcz0iLTEyNSIgd2lkdGg9IjYzIiAv
+PgogICAgICA8aHN0ZW0gcG9zPSItNiIgd2lkdGg9
+Ii0yMCIgLz4KICAgICAgPHZzdGVtIHBvcz0iMjk3
+IiB3aWR0aD0iODYiIC8+CiAgICA8L2hpbnRzZXQ+
+CiAgPC9oaW50U2V0TGlzdD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

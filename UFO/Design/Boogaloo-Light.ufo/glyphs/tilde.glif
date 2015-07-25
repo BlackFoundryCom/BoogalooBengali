@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <advance width="500"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="345" y="651" type="line"/>
+      <point x="333" y="635"/>
+      <point x="316" y="619"/>
+      <point x="293" y="619" type="curve" smooth="yes"/>
+      <point x="262" y="619"/>
+      <point x="237" y="647"/>
+      <point x="198" y="647" type="curve" smooth="yes" name="hr01"/>
+      <point x="152" y="647"/>
+      <point x="123" y="600"/>
+      <point x="105" y="562" type="curve"/>
+      <point x="165" y="530" type="line"/>
+      <point x="177" y="542"/>
+      <point x="193" y="553"/>
+      <point x="215" y="553" type="curve" smooth="yes"/>
+      <point x="246" y="553"/>
+      <point x="264" y="535"/>
+      <point x="310" y="535" type="curve" smooth="yes" name="hr02"/>
+      <point x="357" y="535"/>
+      <point x="401" y="594"/>
+      <point x="405" y="646" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9IjU1MSIgd2lkdGg9Ii0yMSIgLz4KICAgICAg
+PGhzdGVtIHBvcz0iNTUzIiB3aWR0aD0iOTQiIC8+
+CiAgICA8L2hpbnRzZXQ+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMiI+CiAgICAgIDxoc3RlbSBw
+b3M9IjUzNSIgd2lkdGg9Ijg0IiAvPgogICAgICA8
+aHN0ZW0gcG9zPSI2NTEiIHdpZHRoPSItMjAiIC8+
+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0TGlz
+dD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>
