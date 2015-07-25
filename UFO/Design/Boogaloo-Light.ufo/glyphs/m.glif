@@ -51,11 +51,11 @@
       <point x="314" y="426"/>
       <point x="271" y="426" type="curve" smooth="yes" name="hr02"/>
       <point x="220.857142857" y="426.0"/>
-      <point x="170.904443606" y="397.538193135"/>
-      <point x="136" y="343" type="curve"/>
-      <point x="135" y="377"/>
-      <point x="134" y="409"/>
-      <point x="131" y="444" type="curve"/>
+      <point x="172" y="398"/>
+      <point x="137" y="343" type="curve"/>
+      <point x="136" y="377"/>
+      <point x="135" y="409"/>
+      <point x="132" y="444" type="curve"/>
     </contour>
   </outline>
   <lib>
