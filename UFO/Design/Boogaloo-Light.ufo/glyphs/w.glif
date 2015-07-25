@@ -23,9 +23,9 @@
       <point x="108.991286537" y="287.126345211"/>
       <point x="99" y="432" type="curve"/>
       <point x="45" y="439" type="line"/>
-      <point x="55" y="320"/>
-      <point x="79" y="173"/>
-      <point x="120" y="-4" type="curve"/>
+      <point x="55.0887426108" y="318.943962932"/>
+      <point x="78" y="170"/>
+      <point x="119" y="-8" type="curve"/>
       <point x="168" y="-13" type="line"/>
       <point x="208" y="110"/>
       <point x="232.965494438" y="204.667796176"/>
