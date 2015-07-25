@@ -18,20 +18,20 @@
       <point x="207" y="343"/>
       <point x="232" y="343"/>
       <point x="255" y="343" type="curve" name="hr01"/>
-      <point x="255" y="408" type="line"/>
-      <point x="233" y="408"/>
-      <point x="209" y="408"/>
-      <point x="184" y="407" type="curve"/>
-      <point x="186" y="471"/>
-      <point x="189" y="544"/>
+      <point x="255" y="398" type="line"/>
+      <point x="233" y="398"/>
+      <point x="209" y="398"/>
+      <point x="184" y="397" type="curve"/>
+      <point x="186" y="464"/>
+      <point x="188.79243326" y="540.627040471"/>
       <point x="193" y="609" type="curve" name="hr02"/>
       <point x="134" y="615" type="line"/>
-      <point x="131.069319218" y="545.640554835"/>
-      <point x="128" y="466"/>
-      <point x="126" y="394" type="curve"/>
-      <point x="99" y="390"/>
-      <point x="73" y="386"/>
-      <point x="51" y="381" type="curve"/>
+      <point x="130.930666339" y="542.359103359"/>
+      <point x="128" y="459"/>
+      <point x="126" y="384" type="curve"/>
+      <point x="99" y="380"/>
+      <point x="73" y="376"/>
+      <point x="51" y="371" type="curve"/>
     </contour>
   </outline>
   <lib>
