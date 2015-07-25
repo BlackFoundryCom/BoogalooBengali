@@ -31,18 +31,18 @@
       <point x="386.053107618" y="328.209901538"/>
       <point x="429.556701031" y="398.0"/>
       <point x="466" y="398" type="curve" smooth="yes" name="hr01"/>
-      <point x="507.773584906" y="398.0"/>
-      <point x="521" y="333"/>
-      <point x="521" y="276" type="curve" smooth="yes"/>
-      <point x="521" y="189"/>
-      <point x="513" y="99"/>
-      <point x="502" y="-5" type="curve"/>
-      <point x="558" y="-15" type="line"/>
-      <point x="571" y="90"/>
-      <point x="578" y="180"/>
-      <point x="578" y="261" type="curve" smooth="yes"/>
-      <point x="578" y="354"/>
-      <point x="560.853211009" y="460.0"/>
+      <point x="508.547169811" y="398.0"/>
+      <point x="522" y="333"/>
+      <point x="522" y="276" type="curve" smooth="yes"/>
+      <point x="522" y="189"/>
+      <point x="514" y="99"/>
+      <point x="503" y="-5" type="curve"/>
+      <point x="559" y="-15" type="line"/>
+      <point x="572" y="90"/>
+      <point x="579" y="180"/>
+      <point x="579" y="261" type="curve" smooth="yes"/>
+      <point x="579" y="354"/>
+      <point x="561.706422018" y="460.0"/>
       <point x="467" y="460" type="curve" smooth="yes"/>
       <point x="423.45631068" y="460.0"/>
       <point x="382.202745591" y="411.425765742"/>
