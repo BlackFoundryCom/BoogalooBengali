@@ -11,12 +11,12 @@
       <point x="161" y="165"/>
       <point x="128" y="299"/>
       <point x="117" y="432" type="curve"/>
-      <point x="65" y="435" type="line"/>
-      <point x="77.5616524058" y="287.159013993"/>
-      <point x="114" y="136"/>
-      <point x="183" y="6" type="curve"/>
-      <point x="165" y="-73"/>
-      <point x="147" y="-144"/>
+      <point x="64" y="435" type="line"/>
+      <point x="77" y="287"/>
+      <point x="113" y="136"/>
+      <point x="182" y="6" type="curve"/>
+      <point x="164" y="-73"/>
+      <point x="146.992329416" y="-144.045475606"/>
       <point x="133" y="-227" type="curve"/>
       <point x="190" y="-235" type="line"/>
       <point x="242" y="15"/>
