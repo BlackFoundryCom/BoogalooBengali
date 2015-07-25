@@ -8,16 +8,16 @@
       <point x="290.937071451" y="389.854914735"/>
       <point x="215.455379024" y="285.392131938"/>
       <point x="143" y="223" type="curve"/>
-      <point x="143.0" y="397.69739479"/>
-      <point x="149" y="569"/>
+      <point x="143.0" y="398.046092184"/>
+      <point x="148.940128221" y="569.071987426"/>
       <point x="159" y="725" type="curve" name="hr01"/>
       <point x="104" y="731" type="line"/>
       <point x="94" y="580"/>
       <point x="89" y="405"/>
       <point x="89" y="235" type="curve" smooth="yes" name="hr02"/>
       <point x="89" y="154"/>
-      <point x="90" y="70"/>
-      <point x="93" y="-8" type="curve"/>
+      <point x="90" y="69"/>
+      <point x="93" y="-9" type="curve"/>
       <point x="148" y="-19" type="line"/>
       <point x="145" y="47"/>
       <point x="144" y="116"/>
