@@ -21,12 +21,12 @@
       <point x="161" y="180"/>
       <point x="159" y="241"/>
       <point x="159" y="323" type="curve"/>
-      <point x="205.137613014" y="328.915078591"/>
-      <point x="240" y="328"/>
-      <point x="277" y="328" type="curve" name="hr01"/>
-      <point x="277" y="421" type="line"/>
-      <point x="239" y="421"/>
-      <point x="205.309733916" y="419.548230044"/>
+      <point x="201.603490359" y="328.461985943"/>
+      <point x="233" y="328"/>
+      <point x="267" y="328" type="curve" name="hr01"/>
+      <point x="267" y="421" type="line"/>
+      <point x="232" y="421"/>
+      <point x="201.667101613" y="419.275032621"/>
       <point x="158" y="416" type="curve" name="hr02"/>
       <point x="158" y="445" type="line" smooth="yes"/>
       <point x="158" y="553.0"/>
@@ -35,9 +35,9 @@
       <point x="240" y="615"/>
       <point x="253" y="571"/>
       <point x="253" y="503" type="curve"/>
-      <point x="326" y="493" type="line"/>
-      <point x="326" y="641"/>
-      <point x="294.515625" y="735.0"/>
+      <point x="316" y="493" type="line"/>
+      <point x="316" y="641"/>
+      <point x="288.03125" y="735.0"/>
       <point x="218" y="735" type="curve" smooth="yes" name="hr03"/>
       <point x="148.755102041" y="735.0"/>
       <point x="101" y="628.0"/>
