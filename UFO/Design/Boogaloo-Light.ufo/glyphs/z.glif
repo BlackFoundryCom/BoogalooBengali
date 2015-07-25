@@ -27,11 +27,11 @@
       <point x="110" y="452"/>
       <point x="55" y="441" type="curve"/>
       <point x="74" y="387" type="line"/>
-      <point x="125" y="399"/>
-      <point x="180" y="401"/>
-      <point x="241" y="406" type="curve" name="hr02"/>
-      <point x="180.844524831" y="324.433254008"/>
-      <point x="133" y="198"/>
+      <point x="132.841681632" y="400.845101561"/>
+      <point x="197" y="400"/>
+      <point x="268" y="406" type="curve" name="hr02"/>
+      <point x="205" y="320"/>
+      <point x="135.850675924" y="203.226239194"/>
       <point x="49" y="44" type="curve"/>
     </contour>
   </outline>
