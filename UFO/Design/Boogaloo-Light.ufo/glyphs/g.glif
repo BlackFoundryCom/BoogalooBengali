@@ -12,8 +12,8 @@
       <point x="80.9962643735" y="-159.992528747"/>
       <point x="132.210526316" y="-242.0"/>
       <point x="208" y="-242" type="curve" smooth="yes"/>
-      <point x="313.739130435" y="-242.0"/>
-      <point x="342" y="-20"/>
+      <point x="314.534161491" y="-242.0"/>
+      <point x="342.0" y="-20.0"/>
       <point x="342" y="148" type="curve" smooth="yes"/>
       <point x="342" y="278"/>
       <point x="349" y="361"/>
@@ -466,6 +466,13 @@
           <integer>404</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.4</real>
+        <real>0.4</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
