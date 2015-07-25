@@ -29,14 +29,14 @@
     </contour>
     <contour>
       <point x="206" y="399" type="curve" smooth="yes"/>
-      <point x="250" y="399"/>
+      <point x="250.0" y="399.0"/>
       <point x="267" y="319"/>
-      <point x="267" y="236" type="curve"/>
-      <point x="221" y="226"/>
-      <point x="166" y="217"/>
-      <point x="115" y="211" type="curve"/>
+      <point x="267" y="237" type="curve"/>
+      <point x="221" y="227"/>
+      <point x="166" y="218"/>
+      <point x="115" y="212" type="curve"/>
       <point x="119" y="307"/>
-      <point x="159" y="399"/>
+      <point x="159.0" y="399.0"/>
     </contour>
   </outline>
   <lib>
