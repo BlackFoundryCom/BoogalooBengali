@@ -15,10 +15,10 @@
       <point x="160.276572497" y="222.849241606"/>
       <point x="144.338972549" y="319.271301961"/>
       <point x="134" y="433" type="curve"/>
-      <point x="30" y="443" type="line"/>
-      <point x="41" y="323"/>
-      <point x="75" y="178"/>
-      <point x="120" y="-4" type="curve"/>
+      <point x="40" y="443" type="line"/>
+      <point x="51" y="323"/>
+      <point x="85" y="178"/>
+      <point x="130" y="-4" type="curve"/>
     </contour>
   </outline>
   <lib>
