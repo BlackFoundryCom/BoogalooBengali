@@ -11,13 +11,13 @@
       <point x="206.548630775" y="72.052880095"/>
       <point x="242.415536068" y="24.1636288843"/>
       <point x="278" y="-22" type="curve"/>
-      <point x="343" y="49" type="line"/>
-      <point x="290" y="112"/>
-      <point x="257" y="162"/>
-      <point x="231" y="222" type="curve"/>
-      <point x="283" y="289"/>
-      <point x="333" y="370"/>
-      <point x="354" y="435" type="curve"/>
+      <point x="333" y="49" type="line"/>
+      <point x="280" y="112"/>
+      <point x="247" y="162"/>
+      <point x="221" y="222" type="curve"/>
+      <point x="273" y="289"/>
+      <point x="323" y="370"/>
+      <point x="344" y="435" type="curve"/>
       <point x="278" y="477" type="line"/>
       <point x="260.892710605" y="424.727726848"/>
       <point x="225.511539219" y="364.381819375"/>
