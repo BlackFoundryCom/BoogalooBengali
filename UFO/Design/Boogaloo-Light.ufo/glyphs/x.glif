@@ -25,13 +25,13 @@
       <point x="174.934537559" y="352.841233175"/>
       <point x="158.406291914" y="401.034507997"/>
       <point x="150" y="444" type="curve"/>
-      <point x="59" y="455" type="line"/>
-      <point x="72" y="379"/>
-      <point x="104" y="289"/>
-      <point x="143" y="218" type="curve"/>
-      <point x="100" y="146"/>
-      <point x="62" y="84"/>
-      <point x="27" y="2" type="curve"/>
+      <point x="69" y="455" type="line"/>
+      <point x="82" y="379"/>
+      <point x="114" y="289"/>
+      <point x="153" y="218" type="curve"/>
+      <point x="110" y="146"/>
+      <point x="72" y="84"/>
+      <point x="37" y="2" type="curve"/>
     </contour>
   </outline>
   <lib>
