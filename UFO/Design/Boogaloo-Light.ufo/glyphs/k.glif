@@ -15,9 +15,9 @@
       <point x="94" y="580"/>
       <point x="89" y="405"/>
       <point x="89" y="235" type="curve" smooth="yes" name="hr02"/>
-      <point x="89" y="154"/>
-      <point x="90" y="69"/>
-      <point x="93" y="-9" type="curve"/>
+      <point x="89.0" y="153.666666667"/>
+      <point x="90" y="68"/>
+      <point x="93" y="-10" type="curve"/>
       <point x="148" y="-19" type="line"/>
       <point x="145" y="47"/>
       <point x="144" y="116"/>
