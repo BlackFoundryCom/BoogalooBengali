@@ -4,9 +4,9 @@
   <unicode hex="0079"/>
   <outline>
     <contour>
-      <point x="287" y="481" type="line" name="hr00"/>
-      <point x="255.637832342" y="372.657966272"/>
-      <point x="223.457710184" y="260.905466846"/>
+      <point x="309" y="466" type="line" name="hr00"/>
+      <point x="278" y="360"/>
+      <point x="222.653711368" y="257.207072294"/>
       <point x="195" y="130" type="curve"/>
       <point x="171.49002168" y="221.218715882"/>
       <point x="155.430422314" y="317.214650692"/>
