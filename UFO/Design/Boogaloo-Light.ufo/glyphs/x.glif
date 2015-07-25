@@ -5,11 +5,11 @@
   <outline>
     <contour>
       <point x="83" y="-29" type="line" name="hr00"/>
-      <point x="113.76264964" y="66.3642138839"/>
-      <point x="146" y="124"/>
-      <point x="179" y="200" type="curve"/>
-      <point x="221" y="110"/>
-      <point x="253.305302244" y="47.8876693552"/>
+      <point x="112.533359154" y="62.5534133769"/>
+      <point x="147" y="117"/>
+      <point x="179" y="190" type="curve"/>
+      <point x="219" y="104"/>
+      <point x="255.163381951" y="45.5134563961"/>
       <point x="308" y="-22" type="curve"/>
       <point x="323" y="49" type="line"/>
       <point x="270" y="112"/>
