@@ -6,9 +6,9 @@
     <contour>
       <point x="332" y="477" type="line"/>
       <point x="297.187915947" y="396.738806212"/>
-      <point x="219.916291079" y="330.342133541"/>
-      <point x="146" y="240" type="curve"/>
-      <point x="146.0" y="408.495762712"/>
+      <point x="220" y="320"/>
+      <point x="146" y="230" type="curve"/>
+      <point x="146" y="398"/>
       <point x="151.81002675" y="571.897103577"/>
       <point x="161" y="722" type="curve" name="hr01"/>
       <point x="104" y="731" type="line"/>
@@ -19,11 +19,11 @@
       <point x="90" y="70"/>
       <point x="93" y="-8" type="curve"/>
       <point x="150" y="-19" type="line"/>
-      <point x="146.99996243" y="44.0007889626"/>
-      <point x="146" y="120"/>
+      <point x="146.846420081" y="47.2251783026"/>
+      <point x="146.0" y="116.189189189"/>
       <point x="146" y="186" type="curve"/>
-      <point x="218" y="111"/>
-      <point x="292.392922735" y="51.0554535226"/>
+      <point x="219.951676231" y="108.878966216"/>
+      <point x="290.638767735" y="53.7841390782"/>
       <point x="340" y="-23" type="curve"/>
       <point x="372" y="7" type="line"/>
       <point x="327" y="85"/>
