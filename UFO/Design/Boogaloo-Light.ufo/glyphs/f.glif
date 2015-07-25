@@ -4,11 +4,11 @@
   <unicode hex="0066"/>
   <outline>
     <contour>
-      <point x="66" y="300" type="line"/>
-      <point x="76" y="303"/>
-      <point x="89" y="305"/>
-      <point x="102" y="307" type="curve"/>
-      <point x="103" y="231"/>
+      <point x="66" y="310" type="line"/>
+      <point x="76" y="313"/>
+      <point x="89" y="315"/>
+      <point x="102" y="317" type="curve"/>
+      <point x="103" y="241"/>
       <point x="105" y="171"/>
       <point x="107" y="102" type="curve" smooth="yes"/>
       <point x="108" y="70"/>
@@ -19,11 +19,11 @@
       <point x="165" y="71"/>
       <point x="164" y="106" type="curve" smooth="yes"/>
       <point x="161" y="180"/>
-      <point x="159" y="241"/>
-      <point x="159" y="323" type="curve"/>
-      <point x="198.075992194" y="328.009742589"/>
-      <point x="235.695652174" y="328.0"/>
-      <point x="267" y="328" type="curve" name="hr01"/>
+      <point x="159" y="251"/>
+      <point x="159" y="333" type="curve"/>
+      <point x="198" y="338"/>
+      <point x="236" y="338"/>
+      <point x="267" y="338" type="curve" name="hr01"/>
       <point x="267" y="391" type="line"/>
       <point x="235" y="391"/>
       <point x="198" y="389"/>
