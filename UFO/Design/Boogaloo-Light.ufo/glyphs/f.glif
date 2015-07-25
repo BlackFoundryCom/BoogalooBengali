@@ -24,10 +24,10 @@
       <point x="198.075992194" y="328.009742589"/>
       <point x="235.695652174" y="328.0"/>
       <point x="267" y="328" type="curve" name="hr01"/>
-      <point x="267" y="411" type="line"/>
-      <point x="235" y="411"/>
-      <point x="198" y="409"/>
-      <point x="158" y="406" type="curve" name="hr02"/>
+      <point x="267" y="401" type="line"/>
+      <point x="235" y="401"/>
+      <point x="198" y="399"/>
+      <point x="158" y="396" type="curve" name="hr02"/>
       <point x="158" y="445" type="line" smooth="yes"/>
       <point x="158" y="578"/>
       <point x="182.0" y="655.0"/>
@@ -42,10 +42,10 @@
       <point x="148.755102041" y="735.0"/>
       <point x="101" y="628"/>
       <point x="101" y="445" type="curve" smooth="yes"/>
-      <point x="101" y="391" type="line"/>
-      <point x="79" y="387"/>
-      <point x="60" y="384"/>
-      <point x="45" y="380" type="curve"/>
+      <point x="101" y="381" type="line"/>
+      <point x="79" y="377"/>
+      <point x="60" y="374"/>
+      <point x="45" y="370" type="curve"/>
     </contour>
   </outline>
   <lib>
