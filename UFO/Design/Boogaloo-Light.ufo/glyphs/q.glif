@@ -33,17 +33,17 @@
     </contour>
     <contour>
       <point x="180" y="39" type="curve" smooth="yes"/>
-      <point x="143" y="39"/>
-      <point x="115.0" y="103.944444444"/>
+      <point x="143.0" y="39.0"/>
+      <point x="115.0" y="97.9259259259"/>
       <point x="115" y="187" type="curve" smooth="yes"/>
       <point x="115.0" y="247.0"/>
-      <point x="151.203389831" y="353.0"/>
-      <point x="204" y="353" type="curve" smooth="yes"/>
-      <point x="234.272727273" y="353.0"/>
-      <point x="270.677009206" y="334.384246259"/>
-      <point x="278" y="303" type="curve"/>
-      <point x="274.364804493" y="253.318994733"/>
-      <point x="272" y="186"/>
+      <point x="151" y="363"/>
+      <point x="204" y="363" type="curve" smooth="yes"/>
+      <point x="234" y="363"/>
+      <point x="271" y="344"/>
+      <point x="278" y="313" type="curve"/>
+      <point x="274" y="260"/>
+      <point x="272.566658143" y="190.016440796"/>
       <point x="270" y="122" type="curve"/>
       <point x="258" y="87"/>
       <point x="218" y="39"/>
