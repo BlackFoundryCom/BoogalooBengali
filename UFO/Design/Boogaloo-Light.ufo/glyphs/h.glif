@@ -28,13 +28,13 @@
       <point x="360" y="114"/>
       <point x="363" y="226"/>
       <point x="363" y="302" type="curve" smooth="yes"/>
-      <point x="363" y="357"/>
-      <point x="348.084745763" y="464.0"/>
-      <point x="275" y="464" type="curve" smooth="yes"/>
-      <point x="230.14893617" y="464.0"/>
-      <point x="182.787591811" y="446.734489764"/>
-      <point x="151" y="407" type="curve"/>
-      <point x="151" y="512"/>
+      <point x="363.0" y="357.0"/>
+      <point x="341" y="454"/>
+      <point x="275" y="454" type="curve" smooth="yes"/>
+      <point x="230" y="454"/>
+      <point x="183" y="437"/>
+      <point x="151" y="397" type="curve"/>
+      <point x="151" y="502"/>
       <point x="148" y="622"/>
       <point x="143" y="710" type="curve"/>
     </contour>
