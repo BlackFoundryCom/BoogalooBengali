@@ -17,12 +17,12 @@
       <point x="266" y="-21"/>
       <point x="312" y="48"/>
       <point x="341" y="100" type="curve"/>
-      <point x="265" y="125" type="line"/>
-      <point x="246" y="93"/>
-      <point x="218" y="52"/>
-      <point x="184" y="52" type="curve" smooth="yes"/>
-      <point x="151" y="52"/>
-      <point x="118.540298689" y="94.3813410586"/>
+      <point x="265" y="115" type="line"/>
+      <point x="246" y="83"/>
+      <point x="218" y="42"/>
+      <point x="184" y="42" type="curve" smooth="yes"/>
+      <point x="151" y="42"/>
+      <point x="119.053691065" y="88.0922844559"/>
       <point x="114" y="150" type="curve"/>
       <point x="179.044204905" y="159.006120679"/>
       <point x="270.653187779" y="175.867561482"/>
